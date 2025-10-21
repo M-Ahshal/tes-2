@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 oi
-=======
 
 
 
 
 halo
->>>>>>> ebb121f519b43e2254b41588eba24faeeea0629a
